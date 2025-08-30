@@ -1,0 +1,30 @@
+{
+  "name": "decentralized-voting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+
+    
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.0",
+    "@nomicfoundation/hardhat-ignition": "^3.0.1",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.0",
+    "@types/node": "^22.18.0",
+    "chai": "^6.0.1",
+    "esm": "^3.2.25",
+    "forge-std": "github:foundry-rs/forge-std#v1.9.4",
+    "hardhat": "^3.0.3",
+    "mocha": "^11.7.1",
+    "typescript": "~5.8.0",
+    "viem": "^2.36.0"
+  },
+  "type": "module"
+}
